@@ -1,0 +1,205 @@
+<style type="text/css">				
+`				#wrapperstruct {
+					width: 100%;
+					max-width: 2000px;
+					min-width: 750px;
+					margin: auto;
+				}
+				#headstruct {
+					width: 100%;
+					height: auto;
+					background-color: #fae9bc;
+					margin: 0;
+					padding: 0;
+				}
+				#logo {
+					width: 100px;
+					height: 100px;
+					margin-left: 10px;
+					margin-top: 10px;
+					float: left;
+				}
+				#logo img {
+					border-radius: 50px;
+				}
+				.compass {
+					width: 100px;
+					height: 100px;
+				}
+				#contact1 {
+					float: right;
+					height: 106px;
+					width: 271px;
+					margin-right: 4px;
+					margin-top: 20px;
+					text-align: right;
+					font-size: 14px;
+				}
+				#titlehead {
+					font-size: 80px;
+					margin: 0;
+				}
+				#navstruct1 ul {
+					border: solid thin black;
+					width: auto;
+					margin-top: 10px;
+					padding-top: 11px;
+					padding-bottom: 29px;
+					display: flex;
+					height: 35px;
+				}
+				#navstruct1 {
+					background-color: #e1b16a;
+					width: 1142px;
+					height: 70px;
+				}
+				#navstruct1 li {
+					display: inline;
+					list-style-type: none;
+					border-left: thin black solid;
+					border-right: thin black solid;
+					padding-left: 98px;
+					padding-right: 98px;
+				}
+				#navstruct1 li:hover {
+					background-color: #fae9bc;
+				}
+				#titlesubhead {
+					margin: 0;
+					font-size: 25px;
+					letter-spacing: 5px;
+				}
+				#bodystruct {
+					width: 100%;
+					height: 2650px;
+					background-color: #e1b16a;
+				}
+				#header {
+					width: 100%;
+					height: 244px;
+					background-color: #a43820;
+					text-align: center;
+					letter-spacing: 1px;
+				}
+				article img {
+					height: 250px;
+					width: 200px; 
+				}
+				article h2 {
+					font-family: gipsieroRegular;
+				}
+				#header h1 {
+					font-size: 69px;
+					margin: 0;
+					padding-top: 23px;
+					margin-top: -16px;
+				}
+				#workimage {
+					width: 75%;
+					height: 563px;
+					margin: auto;
+					padding-top: 100px;
+				}
+				.mySlides {
+					width: 75%;
+					height: 563px;
+				}
+				#text {
+					width: 900px;
+					height: auto;
+					background-color: #e1b16a;
+					text-align: center;
+					margin: auto;
+					margin-top: 51px;
+				}
+				#navstruct2 {
+					background-color: #e1b16a;
+					height: 500px;
+				}
+				#nav1 {
+					width: 400px;
+					float: left;
+					margin-left: 170px;
+				}
+				.nav1 {
+					width: 400px;
+					margin: 10px;
+					margin-top: 75px;
+					margin-bottom: 10px;
+					padding: 30px;
+					border-radius: 20px;
+					background-color: #fae9bc;
+				
+				}
+				#nav2 {
+					width: 400px;
+					float: right;
+					margin-right: 170px;
+				}
+				.nav2 {
+					width: 400px;
+					margin: 10px;
+					margin-top: 75px;
+					margin-bottom: 11px;
+					padding: 30px;
+					border-radius: 20px;
+					background-color: #fae9bc;
+				}
+				#footer {
+					height: 261px;
+					width: 100%;
+					background-color: #a43820;
+					text-align: center;
+				}
+				#footer p {
+					padding-top: 58px;
+					padding-bottom: 40px;
+				}
+				#footer li {
+					display: inline;
+					list-style-type: none;
+					border: solid thin black;
+					border-radius: 5px;
+					padding: 15px;
+					padding-left: 100px;
+					padding-right: 100px;
+					margin-left: -35px;
+				}
+				#footer li:hover {
+					background-color: #fae9bc;
+				}
+				#footerstruct {
+					height: 200px;
+					width: 100%;
+					background-color: #fae9bc;
+				}
+				#logo2 {
+					width: 100px;
+					height: 100px;
+					margin: auto;
+				}
+				#logo2 img {
+					border-radius: 50px;
+					margin: auto;
+				}
+				#footerstruct li {
+					display: inline;
+					list-style-type: none;
+					margin: -185px;
+					border-left: thin black solid;
+					border-right: thin black solid;
+					padding-left: 110px;
+					padding-right: 107px;
+					margin-left: 179px;
+				}
+				#footerstruct ul li:hover {
+					background-color: #e1b16a;
+				}
+				#social {
+					margin-left: 278px;
+				}
+				#social li {
+					display: inline;
+					list-style-type: none;
+					border: none;
+				}
